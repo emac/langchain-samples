@@ -6,6 +6,8 @@
 
 ![](mini-ai-agent-demo.gif)
 
+*图：Mini AI Agent应用演示*
+
 ### 什么是智能体？
 
 **智能体（AI Agent）**是一种超越简单文本生成的人工智能系统，它使用大语言模型（LLM）作为其核心计算引擎，使其能够进行对话、推理、执行任务，展现一定程度的自主性。
@@ -14,6 +16,6 @@
 
 ![](ai-agent.png)
 
-*图：AI Agent架构示意*
+*图：智能体架构示意*
 
 应用解读： https://emacoo.cn/AI/mini-gpt-agent/
